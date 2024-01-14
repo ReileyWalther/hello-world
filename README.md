@@ -2,6 +2,6 @@
 A tutorial on how to navigate GitHub
 
 # Additional Information about me
-Name:      Reiley
-Surname:   Walther
-Age:       24
+Name:      Reiley \n
+Surname:   Walther \n
+Age:       24 \n
